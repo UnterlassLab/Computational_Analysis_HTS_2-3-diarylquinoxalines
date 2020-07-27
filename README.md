@@ -6,7 +6,7 @@ Correspondence to: Miriam Unterlass miriamunterlass@gmail.com
 ## Summary
 Code used for the computational part of the study "Green hydrothermal synthesis of 2,3-diarylquinoxalines and large-scale computational comparison to existing alternatives" by Amaya-García et al. 
 ## Data availability
-All data and code needed to reproduce the analysis and plots regarding the computational part of this study can be found within the /data folder of this github repository
+All data and code needed to reproduce the analysis and plots regarding the computational part of this study can be found within the /data and /code folders of this github repository
 ## Structure
 code/ contains all jupyter notebooks used for the analysis in this study  
 data/raw/ contains the original raw data used in this study  
